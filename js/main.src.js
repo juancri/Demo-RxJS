@@ -17,5 +17,5 @@ Rx.Observable.fromEvent($('#input'), 'keyup')
 		$('#results')
 			.empty ()
 			.append ($.map (data[1], (value) => 
-				$('<li>' + value + '</li>'))),
+				$('<li>').text (value))),
 		error => console.log (error));
