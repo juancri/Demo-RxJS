@@ -1,3 +1,8 @@
+Requirements:
+
+- Bower (npm install -g bower)
+- Traceur (npm install -g traceur)
+
 Instructions:
 
 - Install dependencies with bower. Execute: bower install
