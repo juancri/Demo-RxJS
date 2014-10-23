@@ -1,0 +1,4 @@
+Instructions:
+
+- Install dependencies with bower. Execute: bower install
+- Run script "compile" inside js/
